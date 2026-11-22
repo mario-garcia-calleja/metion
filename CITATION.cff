@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "METION: Bacterial DNA methylation (6mA, 5mC, 4mC) from Oxford Nanopore reads"
+authors:
+  - family-names: "García Calleja"
+    given-names: "Mario"
+version: 2.0.0
+date-released: 2026-11-22
+license: MIT
+repository-code: "https://github.com/mario-garcia-calleja/metion"

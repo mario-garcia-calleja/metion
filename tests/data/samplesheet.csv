@@ -1,0 +1,5 @@
+sample,barcode,bam,bedmethyl
+ctrl_1,,,ctrl_1.bed.gz
+trt_1,,,trt_1.bed.gz
+ctrl_2,,,ctrl_2.bed.gz
+trt_2,,,trt_2.bed.gz
